@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "OME",
-  "PREFIX": "?",
+  "PREFIX": "%",
   "OPERATOR": [
     "100014896964436",
     "1425528544754290",
